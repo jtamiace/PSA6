@@ -1,0 +1,1 @@
+This repo contains code for a Connect Four game that I implemented. It can be run from the ConnectFour file.
